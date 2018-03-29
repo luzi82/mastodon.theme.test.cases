@@ -29,7 +29,7 @@
 ![compose-form_11](compose-form_11.png "compose-form_11")
 
 * reply review
-* account locked warning
+* account not locked warning (unlisted toot, txt contains link)
 * toot unlisted warning
 * image undo / crop actions: hover
 * toot msg input: placeholder
