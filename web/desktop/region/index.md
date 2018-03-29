@@ -28,8 +28,12 @@
 ![article_09](article_09.png "article_09")
 ![article_10](article_10.png "article_10")
 ![article_11](article_11.png "article_11")
+![article_12](article_12.png "article_12")
+![article_13](article_13.png "article_13")
 
-* msg can be focused
+* toot can be focused
+* toot contains link
+* show more/less: hover
 * reply btn: hover
 * boost btn: hover, active, disabled (by direct msg)
 * fav btn: hover, active
